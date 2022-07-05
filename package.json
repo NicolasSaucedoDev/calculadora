@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "name": "animandome",
+  "version": "1.0.0",
+  "description": "animandome a algo",
+  "main": "index.html",
+  "scripts": {
+    "test": "start",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "nicuz",
+  "license": "ISC"
+}
